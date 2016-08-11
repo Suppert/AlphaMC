@@ -1,27 +1,26 @@
-
 # -*- coding: utf-8 -*-
-#AlphaMc Config File
-#Version Of Config: 1
-#All Options Are <TRUE OR FALSE>
+# AlphaMC Config File
+# Version Of Config: 1
+# All Options Are <TRUE OR FALSE>
 
-#                   SERVER
-#Redstone
+# ======= SERVER =======
+# Redstone
 redstone = dict(
-    cond = 'fasle',
+    cond = 'false',
 )
-#Weather
+# Weather
 weather = dict(
     cond = 'true',
 )
-#Firespread
+# Firespread
 firespread = dict(
     cond = 'false',
 )
-#login message
+# Login message
 loginmessage = dict(
     cond = '§3@player joined the game',
 )
-#logout message
+# logout message
 logoutmessage = dict(
     cond = '§3@player left the game'
 )
