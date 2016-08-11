@@ -1,10 +1,10 @@
 # AlphaMC
 #### written by XtremePlayzCODE and daniktheboss
 
-AlphaMC is a fast Minecraft: Pocket Edition server software, like [XPocket](https://github.com/XPocket/XPocket), but in Python.
+AlphaMC is a fast Minecraft: Pocket Edition server software.
 
 ## Why python?
-Python is fast, and helps alot when making stuff. We might make a GUI using Tkinter, but that is yet to be determined.
+Python is fast, easy to write, easy for fix bugs. We might make a GUI using Tkinter, but that is yet to be determined.
 
 ## Release date?
-Umm, were not sure. Watch the repo to see when we are done.
+NA yet. check the repo for info!
