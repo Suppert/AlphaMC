@@ -1,28 +1,28 @@
-#AlphaMc Installer
-#runs on first boot
+# AlphaMC Installer
+# runs on first boot
 
-print " "
-print "Welcome to AlphaMc Server Software! You are going to setup the server now!"
-print " "
-print "Please pick a language"
+print(" ")
+print("Welcome to AlphaMC Server Software! You are going to setup the server now!")
+print(" ")
+print("Please pick a language")
 lang = raw_input("language eng-> English: ")
 
 if lang == 'eng':
-    print lang, 'is picked'
+    print(lang, 'is picked')
 else:
-    print 'invalid language! try setup again!'
+    print('invalid language! try setup again!')
     exit()
 print "	"
 
 mcpename = raw_input("Please put in your mcpe server name: ")
-print'You picked', mcpename
-print "	"
+print('You picked', mcpename)
+print("")
 
-print 'Do you accept the licanse? These codes are open for others to distribiutebut to give full credit to original owner?'
-licanse = raw_input('Do you accept this? ')
+print('Do you accept the license? These codes are open for others to distribiute but to give full credit to original owners?')
+license = raw_input('Do you accept this? ')
 
-if licanse == 'yes':
-	print 'licanse is accepted!'
+if license == 'yes':
+	print('license is accepted!')
 else:
-	print 'Please acept the licanse! Try setup again!'
+	print 'Please acept the license! Try setup again!'
 	exit()
