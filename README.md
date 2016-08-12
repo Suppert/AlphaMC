@@ -1,5 +1,5 @@
 # AlphaMC
-#### written by XtremePlayzCODE and daniktheboss
+#### written by daniktheboss
 
 AlphaMC is a fast Minecraft: Pocket Edition server software.
 
