@@ -23,8 +23,8 @@ print "	"
 
 install = True
 while install:
-    license = raw_input('Do you want to skip the installer? Y/N ')
-    if license == 'Y':
+    skip_installer = raw_input('Do you want to skip the installer? Y/N ')
+    if skip_installer == 'Y':
         install = False
     else:
         print 'You will setup the server now!'
