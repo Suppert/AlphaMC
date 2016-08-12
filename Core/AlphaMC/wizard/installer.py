@@ -17,8 +17,8 @@ while install:
         print 'Please accept licence'
 
 print "	"
-mcpename = raw_input("Please put in your mcpe server name: ")
-print'You picked', mcpename
+servername = raw_input("Please put in your mcpe server name: ")
+print'You picked', servername
 print "	"
 
 install = True
