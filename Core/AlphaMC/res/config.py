@@ -15,7 +15,7 @@ loginmessage = '@player joined the game'
 #logout message
 logoutmessage = '@player joined the game'
 #server file location
-root = '/home/pi/Desktop/AlphMc/'
+root = 'ROOT FOLDER'#temporarly 
 #                    NETHER
 nether = 'false'
 
