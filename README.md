@@ -1,6 +1,8 @@
 # AlphaMC
 #### written by daniktheboss
 
+PROJECT STOPPED!! IF SOMEONE WANTS TO FORK. GO AHEAD.
+
 AlphaMC is a fast Minecraft: Pocket Edition server software.
 
 ## Why python?
