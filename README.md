@@ -5,7 +5,7 @@ PROJECT STOPPED!! IF SOMEONE WANTS TO FORK. GO AHEAD.
 My rules for forking.
 
 1. DO NOT USE MY SOFTWARE NAME. 
-2. 2. done
+2. Done
 
 AlphaMC is a fast Minecraft: Pocket Edition server software.
 
